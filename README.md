@@ -1,7 +1,7 @@
 
 ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=007ACC&width=500&lines=Hi,+I'm+Do%C3%A2e+Chemchaoui)
 
-💻 Full-Stack Web Developer | Student at **YouCode Safi**  
+💻 Full-Stack Web Developer | **Graduate in Full-Stack Web Development** | Student at **YouCode Safi**  
 🌱 Passionate about building modern web applications
 🎯 Always learning and exploring new technologies  
 
@@ -16,6 +16,10 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
+![StarUML](https://img.shields.io/badge/StarUML-007ACC?style=for-the-badge&logo=staruml&logoColor=white)
 
 ---
 
