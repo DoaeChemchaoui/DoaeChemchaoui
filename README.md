@@ -1,4 +1,3 @@
-# 👋 Hi, I'm 
 
 ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=007ACC&width=500&lines=Hi,+I'm+Do%C3%A2e+Chemchaoui)
 
