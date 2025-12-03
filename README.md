@@ -2,7 +2,7 @@
 ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=007ACC&width=500&lines=Hi,+I'm+Do%C3%A2e+Chemchaoui)
 
 💻 Full-Stack Web Developer | Student at **YouCode Safi**  
-🌱 Passionate about building modern web applications with **Laravel** and **React**  
+🌱 Passionate about building modern web applications
 🎯 Always learning and exploring new technologies  
 
 ---
