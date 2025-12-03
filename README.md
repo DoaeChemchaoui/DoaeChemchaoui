@@ -1,6 +1,9 @@
-👋 Hi, I'm Doâe Chemchaoui  
-💻 Full-Stack Web Developer | Student at YouCode Safi  
-🌱 Passionate about building modern web applications with Laravel and React  
+# 👋 Hi, I'm 
+
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=007ACC&width=500&lines=Hi,+I'm+Do%C3%A2e+Chemchaoui)
+
+💻 Full-Stack Web Developer | Student at **YouCode Safi**  
+🌱 Passionate about building modern web applications with **Laravel** and **React**  
 🎯 Always learning and exploring new technologies  
 
 ---
@@ -18,7 +21,9 @@
 ---
 
 ## 📫 Contact
-✉️ Email: doae.chemchaoui@example.com  
+✉️ Email: `doae.chemchaoui@example.com`  
 🔗 LinkedIn: [Doâe Chemchaoui](https://www.linkedin.com/in/do%C3%A2e-chemchaoui-a891802b2/)  
+
+---
 
 ✨ "Learn, code, and create meaningful projects."
