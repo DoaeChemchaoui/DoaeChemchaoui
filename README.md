@@ -24,7 +24,7 @@
 ---
 
 ## 📫 Contact
-✉️ Email: `doae.chemchaoui@example.com`  
+✉️ Email: `chemchaouidoae@gmail.com`  
 🔗 LinkedIn: [Doâe Chemchaoui](https://www.linkedin.com/in/do%C3%A2e-chemchaoui-a891802b2/)  
 
 ---
